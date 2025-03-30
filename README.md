@@ -1,7 +1,3 @@
-Here’s a sample structure for your README file that describes your project for creating agents from scratch:
-
----
-
 # Project Title: **Agents from Scratch**
 
 ## Project Description
